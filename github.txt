@@ -1,16 +1,237 @@
-111111111111111111
-1
-
-1
-111111111111111
-qqqqqqqqqqqqqqqqqqqqqqqq
-qqqqqqqqqqqqqqqqqqqqqqqq
-
-1111111111111111111111111
-233333333333333333333333333
-555555555555555555555
-
-
-dddddddddddddd
-ddddddddddddd
-ddddddddddddd
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Хомиджон</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+    <div  class="contayner">
+        <!--HEADER PARTES-->
+        <header>
+            <div id="anchor" class="site-nav-partes">
+                <a href="idex.html"><img class="site-nav-logo-partes" src="img/kofe-logo1.svg" alt="logo"></a>
+                <ul class="site-nav-navigeshn-partes" >
+                    <li>
+                        <a class="site-nav-a-partes" href="idex.html">HOME</a>
+                    </li>
+                    <div class="line">
+                        
+                    </div>
+                    <li>
+                        <a class="site-nav-a-partes" href="about-us.html">ABOUT US</a>
+                    </li>
+                    <div class="line">
+                        
+                    </div>
+                    <li>
+                        <a class="site-nav-a-partes" href="Create-a-plan.html">Create your plan</a>
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <!--SECTION PARTES-->
+        <section>
+            <div class="site-section-partes">
+                <div class="site-section-info-partes">
+                    <h1 class="site-section-h1">
+                        Great schokolade
+                        made simple.
+                    </h1>
+                    <p class="site-section-p">
+                        Start your mornings with the world’s best schokolade. Try our expertly curated 
+                        artisan coffees from our best roasters delivered directly to your door, at your schedule.
+                    </p>
+                    <div class="site-section-button">
+                        <a class="site-section-a" href="">
+                            Create your plan
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div>
+                <div class="site-section-2-img">
+                    <img  src="img/Group-30.svg" alt="foto"width="1111"height="196">
+                </div>
+                <ul class="site-section-our-collection">
+                    <li class="site-section-li">
+                        <img src="img/kopi1-copy.jpg" alt="foto"width="259"height="193">
+                        <h2 class="site-section-h2">
+                            Gran Espresso
+                        </h2>
+                        <p class="site-section-li-paragrph">
+                            Light and flavorful blend with cocoa and black pepper for an intense experience.
+                        </p>
+                    </li>
+                    <li class="site-section-li">
+                        <img src="img/kopi-2.jpg" alt="foto"width="259"height="193">
+                        <h2 class="site-section-h2">
+                            Planalto
+                        </h2>
+                        <p class="site-section-li-paragrph">
+                            Brazilian dark roast with rich and velvety body, and hints of fruits and nuts.
+                        </p>
+                    </li>
+                    <li class="site-section-li">
+                        <img src="img/kopi-3.jpg" alt="foto"width="259"height="193">
+                        <h2 class="site-section-h2">
+                            Piccollo
+                        </h2>
+                        <p class="site-section-li-paragrph">
+                            Mild and smooth blend featuring notes of toasted almond and dried cherry.
+                        </p>
+                    </li>
+                    <li class="site-section-li">
+                        <img src="img/kopi-4.jpg" alt="foto"width="259"height="193">
+                        <h2 class="site-section-h2">
+                            Danche
+                        </h2>
+                        <p class="site-section-li-paragrph">
+                            Ethiopian hand-harvested blend densely packed with vibrant fruit notes.
+                        </p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <section>
+            <div class="site-section-Why-choose-us">
+                <h2 class="site-section-chooseh2">
+                    Why choose us?
+                </h2>
+                <p class="site-section-chooseP">
+                    A large part of our role is choosing which particular schokolade will be featured 
+                    in our range. This means working closely with the best coffee growers to give 
+                    you a more impactful experience on every level.
+                </p>
+            </div>
+            <ul class="site-section-choose-ul">
+                <li class="site-section-choose-li">
+                    <img class="site-section-choose-img" src="img/Shape1.svg" alt="foto">
+                    <h2 class="site-section-choose-h2" >
+                        Best quality
+                    </h2>
+                    <p class="site-section-choose-p">
+                        Discover an endless variety of the world’s best artisan schokolade from each of our roasters.
+                    </p>
+                </li>
+                <li class="site-section-choose-li">
+                    <img class="site-section-choose-img" src="img/Combined-Shape2.svg" alt="foto">
+                    <h2 class="site-section-choose-h2">
+                        Exclusive benefits
+                    </h2>
+                    <p class="site-section-choose-p">
+                        Special offers and swag when you subscribe, including 30% off your first shipment.
+                    </p >
+                </li>
+                <li class="site-section-choose-li">
+                    <img class="site-section-choose-img addition" src="img/Combined-Shape3.svg" alt="foto">
+                    <h2 class="site-section-choose-h2">
+                        Free shipping
+                    </h2>
+                    <p class="site-section-choose-p">
+                        We cover the cost and schokolade is delivered fast. Peak freshness: guaranteed.
+                    </p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2 class="site-section-works">
+                How it works
+            </h2>
+            <ul class="site-sektion-count-ul">
+                <li class="site-sektion-count-li">
+                    <p class="site-sektion-count-p">
+                        01
+                    </p>
+                    <h2 class="site-sektion-count-h2">
+                        Pick your
+                        schokolade
+                    </h2>
+                    <p class="site-sektion-count-pp">
+                        Select from our evolving range of artisan schokolade. 
+                        Our beans are ethically sourced and we pay fair prices 
+                        for them. There are new coffees in all profiles every 
+                        month for you to try out.
+                    </p>
+                </li>
+                <li class="site-sektion-count-li">
+                    <p class="site-sektion-count-p">
+                        02
+                    </p>
+                    <h2 class="site-sektion-count-h2">
+                        Choose the frequency
+                    </h2>    
+                    <p class="site-sektion-count-pp">
+                        Customize your order frequency, quantity, even your roast style and grind type. Pause, 
+                        skip or cancel your subscription with no commitment through our online portal.
+                    </p>
+                </li>
+                <li class="site-sektion-count-li">
+                    <p class="site-sektion-count-p">
+                        03
+                    </p>
+                    <h2 class="site-sektion-count-h2">
+                        Receive and enjoy!
+                    </h2>
+                    <p class="site-sektion-count-pp">
+                        We ship your package within 48 hours, freshly roasted. Sit back and enjoy award-winning
+                         world-class coffees curated fwjmvbfqk to provide a distinct tasting experience.
+                    </p>
+                </li>
+            </ul>
+            <div class="site-section-button">
+                <a class="site-section-a" href="">
+                    Create your plan
+                </a>
+            </div>
+            <!--header-partes-->
+            <div class="site-header">
+                <a href="idex.html">
+                    <img src="img/header-logo.svg" alt="logo">
+                </a>
+                <ul class="site-nav-navigeshn-partes">
+                    <li>
+                        <a class="site-nav-a-partes" href="idex.html">HOME</a>
+                    </li>
+                    <div class="line">
+                        
+                    </div>
+                    <li>
+                        <a class="site-nav-a-partes" href="about-us.html">ABOUT US</a>
+                    </li>
+                    <div class="line">
+                        
+                    </div>
+                    <li>
+                        <a class="site-nav-a-partes" href="Create-a-plan.html">Create your plan</a>
+                    </li>
+                </ul>
+                <ul class="site-header-partes">
+                    <li>
+                        <a href="">
+                            <img src="img/fesbuk.svg" alt="logo">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="img/tviter.svg" alt="logo">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="">
+                            <img src="img/instagram.svg" alt="logo">
+                        </a>
+                    </li>
+                </ul>
+                <a href="#anchor">
+                    <img src="img/anchor-marine-ocean-svgrepo-com.svg" alt="logo" width="40px">
+                </a>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
